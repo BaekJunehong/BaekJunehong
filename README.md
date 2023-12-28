@@ -13,3 +13,6 @@
 
 <h2>🔧 Working on</h2>
 <p>🎨 I'm currently working on beautifying my GitHub README</p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
