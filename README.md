@@ -15,3 +15,5 @@
 <p>🎨 I'm currently working on beautifying my GitHub README</p>
 
 [![Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJunehong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekJunehong)](https://github.com/anuraghazra/github-readme-stats)
