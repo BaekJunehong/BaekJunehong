@@ -4,7 +4,7 @@
 
 <h1 align="left">Hi 👋, I'm BaekJunehong</h1>
 <h3 align="left">I am majoring in statistics and computer engineering</h3>
-<h3 align="left">4th year undergraduate student at Hankuk University of Foreign Studies</h3>
+<h3 align="left">4th year undergraduate student at HUFS</h3>
 
 
 
