@@ -6,7 +6,7 @@
 - I am majoring in Statistics and Computer Engineering
 - 3rd year undergraduate student at HUFS
 
-<h2>📚 languages</h2>
+<h2>📚 Languages</h2>
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
