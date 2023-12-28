@@ -1,5 +1,5 @@
 <!-- 프로필 이미지와 소개 -->
-![Profile Image](https://capsule-render.vercel.app/api?type=Soft&color=F4D47B&height=80&section=header&text=Good%20day!&fontSize=40&fontAlign=25&fontAlignY=50)
+![Profile Image](https://capsule-render.vercel.app/api?type=Soft&color=F7EFE9&height=80&section=header&text=Good%20day!&fontSize=40&fontAlign=10&fontAlignY=50)
 
 # Hi 👋, I'm BaekJunehong
 
