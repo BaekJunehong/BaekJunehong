@@ -1,7 +1,7 @@
 <!-- 프로필 이미지와 소개 -->
-![Profile Image](https://capsule-render.vercel.app/api?type=Soft&color=F7EFE9&height=80&section=header&text=Baek's%20GihHub&fontSize=40&fontAlign=20)
+<img src="https://capsule-render.vercel.app/api?type=Soft&color=F7EFE9&height=80&section=header&text=Baek's%20GihHub&fontSize=40&fontAlign=20" alt="Profile Image">
 
-# Hi 👋, I'm BaekJunehong 
+# Hi 👋, I'm BaekJunehong
 
 ## Introduce
 ### I am majoring in statistics and computer engineering
@@ -11,5 +11,3 @@
 ## Skills
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
-
-
