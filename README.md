@@ -11,8 +11,7 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 
-<h2>🔧 Working on</h2>
-<p>🎨 I'm currently working on beautifying my GitHub README</p>
+<h2>🔧 GihHub stats</h2>
 
 [![Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJunehong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
