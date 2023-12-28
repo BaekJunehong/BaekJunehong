@@ -9,7 +9,7 @@
 
 <!-- 기술 스택 -->
 ## Skills
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=#3776AB)
-![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=#276DC3)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 
 
