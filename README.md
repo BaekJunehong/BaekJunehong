@@ -15,8 +15,6 @@
 
 <h2>📊 github stats</h2>
 
-<br>
-
 ![Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJUnehong&theme=moltack&show_icons=true)
 
 
