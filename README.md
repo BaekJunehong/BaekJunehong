@@ -3,7 +3,7 @@
 
 <h2>🗨 Introduce</h2>
 
-- I am majoring in Statistics and Computer Engineering
+- Majoring in Statistics and Computer Engineering
 - 3rd year undergraduate student at HUFS
 
 <h2>📚 Languages</h2>
