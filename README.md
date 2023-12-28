@@ -11,5 +11,5 @@
 ## Skills
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=#3776AB)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=#276DC3)
-<!-- 다른 기술 스택 뱃지들도 추가할 수 있습니다. -->
+
 
