@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Baek%20Junehong&fontSize=50&animation=fadeIn&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Baek%20Junehong&fontSize=50&animation=fadeIn&fontAlignY=100" />
 
 <h1 align="left">Hi 👋, I'm BaekJunehong</h1>
 <h3 align="left">한국에서 통계학과를 전공중인 학생입니다.</h3>
