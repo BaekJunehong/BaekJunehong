@@ -11,4 +11,4 @@
 <p align="left"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 </p>
 
-![Baek's GitHub stats](https://github.com/BaekJunehong.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJUnehong&theme=dark&show_icons=true)
