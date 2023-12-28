@@ -2,9 +2,9 @@
 
 
 
-<h1 align="left">Hi 👋, I'm BaekJunehong</h1>
-<h3 align="left">I am majoring in statistics and computer engineering</h3>
-<h3 align="left">3th year undergraduate student at HUFS</h3>
+# Hi 👋, I'm BaekJunehong
+## I am majoring in statistics and computer engineering
+### 3rd year undergraduate student at HUFS
 
 
 
