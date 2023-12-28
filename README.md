@@ -8,4 +8,7 @@
 <!-- 기술 스택 -->
 ## Skills
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 <!-- 다른 기술 스택 뱃지들도 추가할 수 있습니다. -->
+
