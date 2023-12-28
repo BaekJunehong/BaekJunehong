@@ -1,5 +1,5 @@
 <!-- 프로필 이미지와 소개 -->
-![Profile Image](https://capsule-render.vercel.app/api?type=Soft&color=76819C&height=80&section=header&text=Baek's%20GitHub&fontSize=40&fontAlign=25&fontAlignY=50)
+![Profile Image](https://capsule-render.vercel.app/api?type=Soft&color=F4D47B&height=80&section=header&text=Baek's%20GitHub&fontSize=40&fontAlign=25&fontAlignY=50)
 
 # Hi 👋, I'm BaekJunehong
 
