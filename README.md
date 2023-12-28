@@ -1,7 +1,5 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=F7EFE9&height=200&section=header&text=Baek%20Junehong%20GitHub&fontSize=50" alt="Profile Image" />
-  <span style="margin-left: 10px; font-size: 50px;">Baek Junehong GitHub</span>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=F7EFE9&height=200&section=header&text=Baek%20Junehong%20GihHub&fontSize=50"/>
+
 
 
 <h1 align="left">Hi 👋, I'm BaekJunehong</h1>
