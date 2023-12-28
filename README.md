@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=F7EFE9&height=200&section=header&text=Baek%20Junehong%20GihHub&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=F7EFE9&height=200&section=header&text=Baek%20Junehong%20GihHub&fontSize=50&fontAlign=70"/>
 
 
 
