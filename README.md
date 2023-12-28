@@ -1,7 +1,7 @@
 <!-- 프로필 이미지와 소개 -->
 ![Profile Image](https://capsule-render.vercel.app/api?type=Soft&color=F7EFE9&height=80&section=header&text=Baek's%20GihHub&fontSize=40&fontAlign=20)
 
-# Hi 👋, I'm BaekJunehong
+# Hi 👋, I'm BaekJunehong Dreaming Data scientist 
 
 ## Introduce
 ### I am majoring in statistics and computer engineering
