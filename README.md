@@ -13,7 +13,7 @@
 
 <h2>🔧 GihHub stats</h2>
 
-[![Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJunehong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJUnehong&theme=moltack&show_icons=true)
 
 
 
