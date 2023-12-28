@@ -3,7 +3,7 @@
 
 
 <h1 align="left">Hi 👋, I'm BaekJunehong</h1>
-<h3 align="left">I am an undergraduate student majoring in statistics as a main major and computer engineering as a double major at Hankuk University of Foreign Studies</h3>
+<h3 align="left">I am majoring in statistics and computer engineering. at Hankuk University of Foreign Studies.</h3>
 
 
 
