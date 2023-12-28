@@ -2,7 +2,9 @@
 ![Profile Image](https://capsule-render.vercel.app/api?type=Waving&color=F7EFE9&height=150&section=header&text=Baek's%20GitHub&fontSize=50&fontAlign=25&fontAlignY=40)
 
 # Hi 👋, I'm BaekJunehong
-## I am majoring in statistics and computer engineering
+
+## Introduce
+### I am majoring in statistics and computer engineering
 ### 3rd year undergraduate student at HUFS
 
 <!-- 기술 스택 -->
