@@ -4,7 +4,7 @@
 <h2>🗨 Introduce</h2>
 
 - Majoring in Statistics and Computer Engineering
-- 3rd year undergraduate student at HUFS
+- 4rd year undergraduate student at HUFS
 
 <h2>📚 Languages</h2>
 
