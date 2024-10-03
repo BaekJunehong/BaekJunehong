@@ -12,5 +12,3 @@
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
 
 <h2>📊 github stats</h2>
-
-![Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJUnehong&theme=moltack&show_icons=true)
