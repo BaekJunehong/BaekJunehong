@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=76819C&height=80&section=header&text=Baek's%20GihHub&fontSize=40&fontAlign=20" alt="Profile Image">
-<h1>👋 Hi, I'm BaekJunehong</h1>
+<h1>👋 Hi, I'm BaekJunehong </h1>
 
 <h2>🗨 Introduce</h2>
 
