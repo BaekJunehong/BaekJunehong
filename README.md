@@ -7,7 +7,7 @@
 - 4rd year undergraduate student at HUFS
 
 | Date      | Type   | Event                                          | Link                           |
-|-----------|--------|------------------------------------------------|--------------------------------|
+|-----------|--------|------------------------------------------------|--------------|
 | 2023.08   | 프로젝트 | Snail, 아동 인지능력 검사 서비스      | [GitHub](https://github.com/BaekJunehong/snail)                    |
 | 2023.12   | 프로젝트 | 개 품종 분류 모델 개발               | [GitHub](https://github.com/BaekJunehong/DataSeminar_project)    |
 | 2023.12   | 프로젝트 | 유방암의 악성여부 판별 모델 개발     | [GitHub](https://github.com/BaekJunehong/DataMining_project)       |
