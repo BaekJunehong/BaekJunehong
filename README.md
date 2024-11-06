@@ -9,12 +9,12 @@
 <h2>🏃 Activities</h2>    
 
 | Date      | Type   | Event                                          | Link                           |
-|-----------|--------|------------------------------------------------|----------------|
+|-----------|--------|----------------------------------------------------|----------------|
 | 2023.08   | 프로젝트 | Snail, 아동 인지능력 검사 서비스      | [GitHub](https://github.com/BaekJunehong/snail)                   |
 | 2023.10   | 대회 | 한국어 AI 경진대회             | [GitHub](https://github.com/NoWorkerTeam/try_out)  |
 | 2023.12   | 프로젝트 | 개 품종 분류 모델 개발               | [GitHub](https://github.com/BaekJunehong/DataSeminar_project)     |
 | 2023.12   | 프로젝트 | 유방암의 악성여부 판별 모델 개발     | [GitHub](https://github.com/BaekJunehong/DataMining_project)       |
-|-----------|--------|------------------------------------------------|----------------|
+|-----------|--------|----------------------------------------------------|----------------|
 | 2024.01   | 대회   | 고객 대출등급 분류 모델 개발          | [GitHub](https://github.com/BaekJunehong/Dacon/tree/main/%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98) &nbsp; [DACON](https://dacon.io/competitions/official/236214/leaderboard)        |
 | 2024.02   | 대회   | LG Aimers 4th                        | [GitHub](https://github.com/BaekJunehong/LG_Aimers_4th)            |
 | 2024.06   | 프로젝트 | 도담도담, 눈 손 협응력 점검 서비스      | [GitHub](https://github.com/HUFS-DAT/2024-1_Seminar/tree/main/Team%20Project/%EC%8B%9C%EA%B3%84%EC%97%B4)|
