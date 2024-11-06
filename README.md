@@ -1,10 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=76819C&height=80&section=header&text=Baek's%20GihHub&fontSize=40&fontAlign=20" alt="Profile Image">
 <h1>👋 Hi, I'm BaekJunehong</h1>
 
-<h2>🗨 Introduce</h2>
+<h2>💭 Introduce</h2>
 
-- Majoring in Statistics and Computer Engineering
-- 4rd year undergraduate student at HUFS
+- Majoring in Statistics and Computer Engineering  
+- 4rd year undergraduate student at HUFS  
+
+<h2>🏃 activities</h2>    
 
 | Date      | Type   | Event                                          | Link                           |
 |-----------|--------|------------------------------------------------|----------------|
@@ -19,8 +21,13 @@
 | 2024.09   | 대회   | LG Aimers 5th                        | [GitHub](https://github.com/BaekJunehong/Lg_aimers5)                |
 | 2024.11   | 대회   | GBT 해커톤 경진대회                   | [GitHub](https://github.com/BaekJunehong/GBT_hackerton) &nbsp; [DACON](https://dacon.io/competitions/official/236372/leaderboard)             |
 
+<h2>📃 License</h2>  
 
-<h2>📚 Languages</h2>
+컴퓨터활용능력 1급 (대한상공회의소, 2022.05)    
+데이터분석 준전문가 ADsP (한국데이터산업진흥원, 2022.06)    
+사회조사분석사 2급 (한국산업인력공단, 2022.06) 
+
+<h2>💬 Languages</h2>
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![R Badge](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
@@ -29,8 +36,4 @@
 
 ![Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJUnehong&theme=moltack&show_icons=true)
 
-<h2>🎫 License</h2>  
-
-컴퓨터활용능력 1급 (대한상공회의소, 2022.05)    
-데이터분석 준전문가 ADsP (한국데이터산업진흥원, 2022.06)    
-사회조사분석사 2급 (한국산업인력공단, 2022.06)    
+   
