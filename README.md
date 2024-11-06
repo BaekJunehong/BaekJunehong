@@ -17,7 +17,7 @@
 |-----------|--------|----------------------------------------------------|----------------|
 | 2024.01   | 대회   | 고객 대출등급 분류 모델 개발          | [GitHub](https://github.com/BaekJunehong/Dacon/tree/main/%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98) &nbsp; [DACON](https://dacon.io/competitions/official/236214/leaderboard)        |
 | 2024.02   | 대회   | LG Aimers 4th                        | [GitHub](https://github.com/BaekJunehong/LG_Aimers_4th)            |
-| 2024.06   | 프로젝트 | 도담도담, 눈 손 협응력 점검 서비스      | [GitHub](https://github.com/HUFS-DAT/2024-1_Seminar/tree/main/Team%20Project/%EC%8B%9C%EA%B3%84%EC%97%B4)|
+| 2024.06   | 프로젝트 | 도담도담, 눈 손 협응력 점검 서비스      | [GitHub](https://github.com/BaekJunehong/DodamDodam)|
 | 2024.06   | 동아리 | 츨산율에 미치는 요인 탐색 및 VAR 모형 적용 | [GitHub](https://github.com/HUFS-DAT/2024-1_Seminar/tree/main/Team%20Project/%EC%8B%9C%EA%B3%84%EC%97%B4)|
 | 2024.06   | 프로젝트 | INTOENG, 인도식 억양 IT 강의 학습 도우미 서비스 | [GitHub](https://github.com/BaekJunehong/INTOENG)                   |
 | 2024.09   | 대회   | LG Aimers 5th                        | [GitHub](https://github.com/BaekJunehong/Lg_aimers5)                |
