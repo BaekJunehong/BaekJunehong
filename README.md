@@ -1,12 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=76819C&height=80&section=header&text=Baek's%20GihHub&fontSize=40&fontAlign=20" alt="Profile Image">
-<h1>👋 안녕하세요 백준홍입니다:)</h1>
-
 <h2>💭 Introduce</h2>
 
 - 한국외국어대학교 4학년 재학중
 - 통계학, 컴퓨터공학 전공
  
-
 <h2>🏃 Activities</h2>    
 
 | Date      | Type   | Event                                          | Link                           |
