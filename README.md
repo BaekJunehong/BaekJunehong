@@ -17,7 +17,7 @@
 | 2024.06   | 프로젝트 | INTOENG, 인도식 억양 IT 강의 학습 도우미 서비스 | [GitHub](https://github.com/BaekJunehong/INTOENG)                   |
 | 2024.06   | 프로젝트 | 도담도담, 눈 손 협응력 점검 서비스             | [GitHub](https://github.com/BaekJunehong/DodamDodam)                   |
 | 2024.09   | 대회   | LG Aimers 5th                        | [GitHub](https://github.com/BaekJunehong/Lg_aimers5)                |
-| 2024.11   | 대회   | GBT 해커톤 경진대회                   | [GitHub](https://github.com/BaekJunehong/GBT_hackerton)             |
+| 2024.11   | 대회   | GBT 해커톤 경진대회                   | [GitHub](https://github.com/BaekJunehong/GBT_hackerton) &nbsp; [DACON](https://dacon.io/competitions/official/236372/leaderboard)             |
 
 
 <h2>📚 Languages</h2>
