@@ -15,7 +15,7 @@
 
 ![Baek's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJUnehong&theme=moltack&show_icons=true)
 
-<h2>🎫 License  
+<h2>🎫 License</h2>  
 
 - 컴퓨터활용능력 1급 (대한상공회의소, 2022.05)    
 - 데이터분석 준전문가 ADsP (한국데이터산업진흥원, 2022.06)    
