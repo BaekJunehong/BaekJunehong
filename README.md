@@ -9,7 +9,7 @@
 | Project                                          | Date      | Link                           |
 |---------------------------------------------------|-----------|--------------------------------|
 | 아동음성 특화 음성인식모델 개발                   | 2023.08   | [GitHub](https://github.com/BaekJunehong/snail)                   |
-| 개 품종 분류 모델 개발                             | 2023.12   | [GitHub](https://github.com/BaekJunehong/DataSeminar_project))                  |
+| 개 품종 분류 모델 개발                             | 2023.12   | [GitHub](https://github.com/BaekJunehong/DataSeminar_project)                  |
 | 유방암의 악성여부 판별 모델 개발                  | 2023.12   | [GitHub](https://github.com/BaekJunehong/DataMining_project)                   |
 | 고객 대출등급 분류 모델 개발                      | 2024.01   | [GitHub](https://github.com/BaekJunehong/Dacon/tree/main/%EA%B3%A0%EA%B0%9D%20%EB%8C%80%EC%B6%9C%EB%93%B1%EA%B8%89%20%EB%B6%84%EB%A5%98)                   |
 | MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발  | 2024.02   | [GitHub](https://github.com/BaekJunehong/LG_Aimers_4th)                   |
