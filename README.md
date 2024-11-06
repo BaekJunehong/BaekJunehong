@@ -6,7 +6,7 @@
 - Majoring in Statistics and Computer Engineering  
 - 4rd year undergraduate student at HUFS  
 
-<h2>🏃 activities</h2>    
+<h2>🏃 Activities</h2>    
 
 | Date      | Type   | Event                                          | Link                           |
 |-----------|--------|------------------------------------------------|----------------|
