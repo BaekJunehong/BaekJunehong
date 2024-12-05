@@ -19,7 +19,7 @@
 | 2024.06   | 프로젝트 | INTOENG, 인도식 억양 IT 강의 학습 도우미 서비스 | [GitHub](https://github.com/BaekJunehong/INTOENG)                   |
 | 2024.09   | 대회   | LG Aimers 5th                        | [GitHub](https://github.com/BaekJunehong/Lg_aimers5)                |
 | 2024.11   | 대회   | GBT 해커톤 경진대회                   | [GitHub](https://github.com/BaekJunehong/GBT_hackerton) &nbsp; [DACON](https://dacon.io/competitions/official/236372/leaderboard)  |
-| 2024.11   | 대회   | 데이터 크리에이터 캠프                        | [GitHub](https://github.com/dinoboy22/DCC-amaranth/tree/main)      |
+| 2024.11   | 대회   | 데이터 크리에이터 캠프                        | [GitHub](https://github.com/BaekJunehong/DCC_amaranth)      |
 | 2024.12   | 동아리   | 부실기업 예측 모형에 관한 연구       | [GitHub](https://github.com/BaekJunehong/BIZnFIN) &nbsp; [DAT](https://github.com/HUFS-DAT/2024-2_Seminar)       |
 
 <h2>📃 License</h2>  
