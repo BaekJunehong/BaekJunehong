@@ -22,6 +22,12 @@
 | 2024.11   | 대회   | 데이터 크리에이터 캠프                        | [GitHub](https://github.com/BaekJunehong/DCC_amaranth)      |
 | 2024.12   | 동아리   | 부실기업 예측 모형에 관한 연구       | [GitHub](https://github.com/BaekJunehong/BIZnFIN) &nbsp; [DAT](https://github.com/HUFS-DAT/2024-2_Seminar)       |
 
+<h2>🐾 Extracurricular activities</h2>  
+데이터 청년 캠퍼스 (2023.06.26 ~ 2023.08.31)  
+LG Aimers 4th (2024.01.02 ~ 2024.02.26)  
+LG Aimers 5th (2024.07.01 ~ 2024.08.30)   
+DAT (데이터분석학회) (2024.03 ~ 2024.12)  
+
 <h2>📃 License</h2>  
 
 컴퓨터활용능력 1급 (대한상공회의소, 2022.05)    
