@@ -22,7 +22,7 @@
 | 2024.11   | 대회   | 데이터 크리에이터 캠프                        | [GitHub](https://github.com/BaekJunehong/DCC_amaranth)      |
 | 2024.12   | 동아리   | 부실기업 예측 모형에 관한 연구       | [GitHub](https://github.com/BaekJunehong/BIZnFIN) &nbsp; [DAT](https://github.com/HUFS-DAT/2024-2_Seminar)       |
 |-----------|--------|----------------------------------------------------|----------------|
-| 2025.02   | 대회   | LG Aimers 6th      |  
+| 2025.02   | 대회   | LG Aimers 6th      |  [GitHub](https://github.com/BaekJunehong/LG_Aimers_6th)      |  
 
 <h2>🐾 Extracurricular activities</h2>   
 
