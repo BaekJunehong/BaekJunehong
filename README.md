@@ -21,6 +21,8 @@
 | 2024.11   | 대회   | GBT 해커톤 경진대회                   | [GitHub](https://github.com/BaekJunehong/GBT_hackerton) &nbsp; [DACON](https://dacon.io/competitions/official/236372/leaderboard)  |
 | 2024.11   | 대회   | 데이터 크리에이터 캠프                        | [GitHub](https://github.com/BaekJunehong/DCC_amaranth)      |
 | 2024.12   | 동아리   | 부실기업 예측 모형에 관한 연구       | [GitHub](https://github.com/BaekJunehong/BIZnFIN) &nbsp; [DAT](https://github.com/HUFS-DAT/2024-2_Seminar)       |
+|-----------|--------|----------------------------------------------------|----------------|
+| 2025.02   | 대회   | LG Aimers 6th      |  
 
 <h2>🐾 Extracurricular activities</h2>   
 
