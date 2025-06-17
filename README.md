@@ -1,10 +1,9 @@
 <h2>💭 Introduce</h2>
-
-- 한국외국어대학교 통계학, 컴퓨터공학 학사졸업  
+  
+- 한국외국어대학교 통계학, 컴퓨터공학 학사졸업    
 - 연세대학교 통계데이터사이언스 석사과정  
+  
 
-📧email: junehong614@gmail.com 
- 
 <h2>🏃 Activities</h2>    
 
 | Date      | Type   | Event                                          | Link                           |
